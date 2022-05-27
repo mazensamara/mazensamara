@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mazensamara
-- 👀 I’m interested in ...
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning IIOT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on various Projects about IIOT
 - 📫 How to reach me :mazensamara@yahoo.com, +14385059631
 
 <!---
